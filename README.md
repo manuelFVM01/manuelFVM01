@@ -4,8 +4,7 @@
 
 # 💫 About Me:
 <br>
-Memoria actualizada
-Aquí tienes la descripción con un enfoque más destacado en tu formación en Química:
+
 
 ¡Hola! Soy un QA Junior con un título en Química y una sólida formación en Computación e Informática, que ha encontrado en el aseguramiento de la calidad del software una nueva pasión profesional. Mi experiencia en Química me ha dotado de habilidades analíticas avanzadas y una atención rigurosa al detalle, cualidades que aplico para asegurar que cada componente del software cumpla con altos estándares de calidad y precisión.
 
