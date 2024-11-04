@@ -1,6 +1,6 @@
 
 
-![Bienvenido a mi GitHub](https://media.licdn.com/dms/image/D4E16AQFAMt33jmxv9Q/profile-displaybackgroundimage-shrink_350_1400/0/1722107452241?e=1727913600&v=beta&t=JYHwdcB8TsIWH9ijQQ7XyKg35syXMMbStBpM0SlyfL0)
+![Bienvenido a mi GitHub](https://media.licdn.com/dms/image/v2/D4E16AQFAMt33jmxv9Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1722107452241?e=1736380800&v=beta&t=c3wNGIhnEUZ7Mlz0DJTmEF1lcd90PO2X6S0HdVJWeIU)
 
 # 💫 About Me:
 <br>
