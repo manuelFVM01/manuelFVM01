@@ -3,7 +3,13 @@
 ![Bienvenido a mi GitHub](https://media.licdn.com/dms/image/D4E16AQFAMt33jmxv9Q/profile-displaybackgroundimage-shrink_350_1400/0/1722107452241?e=1727913600&v=beta&t=JYHwdcB8TsIWH9ijQQ7XyKg35syXMMbStBpM0SlyfL0)
 
 # 💫 About Me:
-<br>¡Hola! Soy un QA Junior con un título previo en Química y una pasión por asegurar la calidad del software. Tras completar un bootcamp especializado, he desarrollado una sólida formación en pruebas de software, con un enfoque particular en la automatización. Mi formación en Química me ha proporcionado habilidades analíticas y una atención al detalle que aplico para asegurar que cada pieza de software funcione a la perfección.<br><br>Disfruto trabajando en equipo y enfrentando nuevos desafíos, siempre con el objetivo de mejorar la calidad y funcionalidad del software. Estoy emocionado de seguir aprendiendo y creciendo en el campo del aseguramiento de la calidad y contribuir a proyectos innovadores.<br><br>Te invito a explorar los proyectos que he realizado durante mi desarrollo como QA Junior. ¡Espero que te resulten interesantes!
+<br>
+Memoria actualizada
+Aquí tienes la descripción con un enfoque más destacado en tu formación en Química:
+
+¡Hola! Soy un QA Junior con un título en Química y una sólida formación en Computación e Informática, que ha encontrado en el aseguramiento de la calidad del software una nueva pasión profesional. Mi experiencia en Química me ha dotado de habilidades analíticas avanzadas y una atención rigurosa al detalle, cualidades que aplico para asegurar que cada componente del software cumpla con altos estándares de calidad y precisión.
+
+Después de completar un bootcamp especializado, he adquirido conocimientos profundos en pruebas de software, con un enfoque particular en la automatización. Disfruto trabajando en equipo y enfrentando nuevos desafíos, siempre comprometido en mejorar la calidad y funcionalidad del software. Estoy emocionado de seguir aprendiendo y creciendo en el campo de QA y de contribuir a proyectos innovadores.
 
 
 # 💻 Tech Stack:
