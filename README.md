@@ -1,6 +1,6 @@
 
 
-![Bienvenido a mi GitHub](https://media.licdn.com/dms/image/v2/D4E16AQFAMt33jmxv9Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1722107452241?e=1736380800&v=beta&t=c3wNGIhnEUZ7Mlz0DJTmEF1lcd90PO2X6S0HdVJWeIU)
+![Bienvenido a mi GitHub](https://www.shutterstock.com/shutterstock/photos/2219991321/display_1500/stock-vector-software-testing-banner-web-icon-vector-illustration-concept-with-icon-of-analysis-development-2219991321.jpg)
 
 # 💫 About Me:
 <br>
